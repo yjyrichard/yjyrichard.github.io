@@ -3185,10 +3185,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://img.picui.cn/free/2025/02/22/67b923d40c915.jpg);
-    --darkmode-bg:url(https://img.picui.cn/free/2025/02/22/67b923d40c915.jpg);
-    --mobileday-bg: url(https://img.picui.cn/free/2025/02/22/67b923d40c915.jpg);
-    --mobilenight-bg: url(https://img.picui.cn/free/2025/02/22/67b923d40c915.jpg);
+    --default-bg: url(https://img.picui.cn/free/2025/03/24/67e0fc7331280.png);
+    --darkmode-bg:url(https://img.picui.cn/free/2025/03/24/67e0fc7331280.png);
+    --mobileday-bg: url(https://img.picui.cn/free/2025/03/24/67e0fc7331280.png);
+    --mobilenight-bg: url(https://img.picui.cn/free/2025/03/24/67e0fc7331280.png);
   }`;
 }
 // 切换背景主函数
