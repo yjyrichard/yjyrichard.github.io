@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yjyrichard.github.io/custom/work.html</loc>
+    <loc>https://yjyrichard.github.io/posts/0.html</loc>
+    
+    <lastmod>2025-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/life/games/index.html</loc>
+    
+    <lastmod>2025-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2025-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/life/music/index.html</loc>
+    
+    <lastmod>2025-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/custom/skill.html</loc>
+    
+    <lastmod>2025-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/custom/menu.html</loc>
     
     <lastmod>2025-05-06</lastmod>
     
@@ -20,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/custom/menu.html</loc>
+    <loc>https://yjyrichard.github.io/personal/about/index.html</loc>
+    
+    <lastmod>2025-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/custom/work.html</loc>
     
     <lastmod>2025-05-06</lastmod>
     
@@ -92,27 +146,9 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/life/games/index.html</loc>
-    
-    <lastmod>2025-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yjyrichard.github.io/posts/3ec27523.html</loc>
     
     <lastmod>2025-04-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/life/movies/index.html</loc>
-    
-    <lastmod>2025-04-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -182,15 +218,6 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/1d100b8e.html</loc>
-    
-    <lastmod>2025-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yjyrichard.github.io/posts/e255a10a.html</loc>
     
     <lastmod>2025-04-15</lastmod>
@@ -200,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/45347810.html</loc>
+    <loc>https://yjyrichard.github.io/posts/1d100b8e.html</loc>
     
     <lastmod>2025-04-15</lastmod>
     
@@ -218,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/b86735db.html</loc>
+    <loc>https://yjyrichard.github.io/posts/45347810.html</loc>
     
     <lastmod>2025-04-15</lastmod>
     
@@ -228,6 +255,15 @@
   
   <url>
     <loc>https://yjyrichard.github.io/posts/5c2f4951.html</loc>
+    
+    <lastmod>2025-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/posts/b86735db.html</loc>
     
     <lastmod>2025-04-15</lastmod>
     
@@ -254,6 +290,15 @@
   </url>
   
   <url>
+    <loc>https://yjyrichard.github.io/posts/2aa61245.html</loc>
+    
+    <lastmod>2025-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yjyrichard.github.io/posts/d522d575.html</loc>
     
     <lastmod>2025-04-15</lastmod>
@@ -272,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/2aa61245.html</loc>
+    <loc>https://yjyrichard.github.io/posts/52427a31.html</loc>
     
     <lastmod>2025-04-15</lastmod>
     
@@ -308,15 +353,6 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/52427a31.html</loc>
-    
-    <lastmod>2025-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yjyrichard.github.io/posts/64d0aedf.html</loc>
     
     <lastmod>2025-04-15</lastmod>
@@ -329,24 +365,6 @@
     <loc>https://yjyrichard.github.io/posts/a9ba4134.html</loc>
     
     <lastmod>2025-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/personal/about/index.html</loc>
-    
-    <lastmod>2025-03-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/custom/skill.html</loc>
-    
-    <lastmod>2025-03-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -372,15 +390,6 @@
   
   <url>
     <loc>https://yjyrichard.github.io/personal/bb/index.html</loc>
-    
-    <lastmod>2025-03-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/life/music/index.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -416,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/d684af78.html</loc>
+    <loc>https://yjyrichard.github.io/posts/5612417a.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -425,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/5612417a.html</loc>
+    <loc>https://yjyrichard.github.io/posts/d684af78.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -479,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/fac4a2c4.html</loc>
+    <loc>https://yjyrichard.github.io/posts/df7753ac.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -488,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/df7753ac.html</loc>
+    <loc>https://yjyrichard.github.io/posts/fac4a2c4.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -506,7 +515,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/2746ea03.html</loc>
+    <loc>https://yjyrichard.github.io/posts/d9e956d7.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -515,7 +524,7 @@
   </url>
   
   <url>
-    <loc>https://yjyrichard.github.io/posts/d9e956d7.html</loc>
+    <loc>https://yjyrichard.github.io/posts/2746ea03.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -715,92 +724,92 @@
 
   <url>
     <loc>https://yjyrichard.github.io/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://yjyrichard.github.io/tags/java/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yjyrichard.github.io/tags/nginx/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/tags/bug/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/java/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/js/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/tags/%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/tags/%E9%94%BB%E7%82%BC/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/tags/js/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/tags/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/tags/ssm/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -808,85 +817,85 @@
 
   
   <url>
+    <loc>https://yjyrichard.github.io/categories/java/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://yjyrichard.github.io/categories/nginx/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/categories/bug/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/java/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/%E7%A7%91%E6%99%AE/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/js/</loc>
-    <lastmod>2025-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjyrichard.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/categories/%E9%94%BB%E7%82%BC/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/categories/%E7%A7%91%E6%99%AE/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/categories/js/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjyrichard.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yjyrichard.github.io/categories/SSM/</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
